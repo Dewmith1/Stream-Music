@@ -124,7 +124,7 @@ async def ghelp(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🟡 Click here for help 🟡", url=f"https://t.me/https://t.me/cgs_official"
+                        "🟡 Click here for help 🟡", url=f"https://t.me/cgs_official"
                     )
                 ]
             ]
